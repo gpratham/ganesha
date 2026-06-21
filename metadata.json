@@ -1,0 +1,6 @@
+{
+  "name": "Ganapati Idol E-Commerce",
+  "description": "A real-time synchronizing full-stack e-commerce experience for Ganesha idols, featuring live inventory tracking, admin panel, smart pooja recommendations, and customizable delivery/pickup payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
